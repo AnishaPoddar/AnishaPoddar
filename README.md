@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpeg" alt="Hello, World! I'm Anisha" width="100%">
+  <img src="./banner.jpeg" alt="Hello, World! I'm Anisha" width="75%">
 </p>
 
 
