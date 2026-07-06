@@ -28,16 +28,15 @@ I want it to become a timeline of my growth—from my very first *"Hello, World!
 </p>
 
 ---
-# 💻 Current Focus
+## 💻 Current Focus
 
-'''text
+```text
 Building.
 Learning.
 Failing.
 Improving.
 Repeating.
-'''
-
+```
 
 ---
 # 🌐 Let's Connect
@@ -50,7 +49,5 @@ Repeating.
 
 
 
-
-**AnishaPoddar/AnishaPoddar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
