@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.jpeg" alt="Hello, World! I'm Anisha" width="100%">
+</p>
+
 
 <!--
 **AnishaPoddar/AnishaPoddar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
